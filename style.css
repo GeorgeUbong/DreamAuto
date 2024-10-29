@@ -18,7 +18,7 @@ h2 {
 /* Hero Section */
 .hero {
     position: relative;
-    background-image: url('/984168.jpg');
+    background-image: url('984168.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
